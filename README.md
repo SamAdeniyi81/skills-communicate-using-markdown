@@ -14,10 +14,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 </header>
 
 <!--
+
   <<< Author notes: Step 4 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+
 
 ## Step 4: Make a task list
 
@@ -56,6 +59,7 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
+
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
